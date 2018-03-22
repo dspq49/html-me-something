@@ -1,0 +1,29 @@
+img src{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+body {
+    padding: 70 px
+    
+}
+
+p {
+    font-family:Garamond;
+    font-size:24px 
+}
+
+.h1 {
+    background-color: pink;
+}
+
+.h2 {
+    background-color: green;
+}
+
+article {
+    font-family: Arial;
+}
